@@ -1,6 +1,6 @@
 --- 
 title: "Analyzing population genomic data with tess3r" 
-author: "Kevin Caye - Flora Jay - Olivier François" 
+author: "Anthony Davidson - Extened from Kevin Caye - Flora Jay - Olivier François" 
 date: "`r Sys.Date()`" 
 output: 
   rmarkdown::html_vignette
@@ -61,6 +61,10 @@ Running the main function **tess3** requires two files as input to the program: 
 
 
 ```{r data} 
+# genelight object
+gl.dat <- 
+  
+  
 data(data.at)
 genotype = data.at$X
 coordinates = data.at$coord

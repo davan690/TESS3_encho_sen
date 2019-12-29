@@ -5,11 +5,7 @@ date: "7 mars 2016"
 output: html_document
 ---
 
-
-
-
 # Handler raster with R
-
 
 ```{r}
 library(raster)

@@ -28,6 +28,5 @@ euclidean distance
 # Flora
 - pie chart
 
-
 # Someone
 - vignette for different data format files
